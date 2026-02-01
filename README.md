@@ -69,7 +69,7 @@
               <div class="container">
                 
                 <div>
-                <img src="images/blue_sapphire_ring.jpg" alt="Blue Sapphire Ring">
+                <img src="blue_sapphire_ring.jpg" alt="Blue Sapphire Ring">
                 <p>1 Carat Oval Cut Blue Sapphire Gemstone</p>
                 <p>0.10 Carat TW Diamond Halo Engagement Ring in 10kt Yellow and White 
                 Gold</p>
@@ -77,21 +77,21 @@
                 </div>
                   
                 <div>
-                <img src="images/green_sapphire_earring.jpg" alt="Green Sapphire Earrings">
+                <img src="green_sapphire_earring.jpg" alt="Green Sapphire Earrings">
                 <p>1.7 Carat Solitaire Stud Earrings</p>
                 <p>These classic four-prong 5mm round solitaire studs are offered in your choice of stone and metal.</p>
                 <p>$1499.00</p>
                 </div>
                    
                 <div>
-                <img src="images/blue_sapphire_earring.jpg" alt="Blue Sapphire Earrings">
+                <img src="blue_sapphire_earring.jpg" alt="Blue Sapphire Earrings">
                 <p>1 Carat Stud Earrings</p>
                 <p> Silver Metal set in Round 4 mm Gemstone. Embrace your individuality with our Coco earrings. Customise your design by choosing the metal finish, from yellow gold to white gold and platinum, pick one that resonates with your style.</p>
                 <p>$849.00</p>
                 </div>
                     
                 <div>
-                <img src="images/yellow_sapphire_pendant.jpg" alt="Yellow Sapphire Pendant">
+                <img src="yellow_sapphire_pendant.jpg" alt="Yellow Sapphire Pendant">
                 <p>Oval Yellow Sapphire Pendant with Floral Diamond Halo</p>
                 <p>Shaped like a delicate flower, this classic pendant in 10ct rose gold radiates feminine charm. A captivating oval yellow sapphire sits at the center, encircled by a halo of sparkling diamonds that create a dazzling floral effect.</p>
                 <p>$1099.00</p>
